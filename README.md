@@ -13,4 +13,4 @@ Python 3.7
 TensorFlow 2.4
 ```
 
-The standalone version of OPUS-Rota5 is hosted on [Google Drive](xxx). The three side-chain modeling test sets (CAMEO65, CASP15, and CAMEO82) and the docking test set (25 GPCRs) can be downloaded directly from [Here](https://github.com/thuxugang/opus_rota5/blob/main/testsets.zip).
+The standalone version of OPUS-Rota5 is hosted on [Google Drive](https://drive.google.com/file/d/11pDC8aXTQKdj1uheNhka_xuI2V7kh0cw/view?usp=sharing). The three side-chain modeling test sets (CAMEO65, CASP15, and CAMEO82) and the docking test set (25 GPCRs) can be downloaded directly from [Here](https://github.com/thuxugang/opus_rota5/blob/main/testsets.zip).
